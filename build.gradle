@@ -30,5 +30,4 @@ dependencies {
 
     // the new zinc cannot be used: zinc 'org.scala-sbt:zinc_2.12:1.2.5'
     zinc 'com.typesafe.zinc:zinc:0.3.15'
-    zinc 'javax.xml.bind:jaxb-api:2.2.11'
 }
